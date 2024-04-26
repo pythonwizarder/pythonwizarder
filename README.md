@@ -44,10 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonwizarderi&show_icons=true&hide_border=true&theme=radical">
 </p>
 </details> -->
-
-### :zap: Recent Github Activity
-
-
 <br>
 
 ### 📊 &nbsp; STATS
