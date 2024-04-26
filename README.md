@@ -32,7 +32,6 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png" />
 <br>
 <br>
 <br>
@@ -57,13 +56,6 @@
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=pythonwizarder&show_icons=true&hide_border=true&theme=radical" width="37%" alt="My Top Languages">
 
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pythonwizarder&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pythonwizarder&show_icons=true&hide_border=true")-->
-
-<br>
 
 ### :zap: Recent Github Activity
   
