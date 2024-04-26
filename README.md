@@ -2,15 +2,11 @@
 <p>
   <h1 align="center"><b>Hello there 👋</b></h1>
 </p>
-
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Python Wizarder🧙‍♂️🧙‍♂️🧙‍♂️
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2020 Goals: Contribute to Open Source projects
@@ -50,12 +46,7 @@
 </details> -->
 
 ### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
+
 
 <br>
 
